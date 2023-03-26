@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "787425357847",
+    "firebase_url": "https://realtimedbtest-d8c6b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtimedbtest-d8c6b",
+    "storage_bucket": "realtimedbtest-d8c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787425357847:android:a61433ad7d236847a92c52",
+        "android_client_info": {
+          "package_name": "nguyenphandu.online.callthatcolorasname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787425357847-344t1f95r5krsk80uqanm9agrmtrjs9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nguyenphandu.online.callthatcolorasname",
+            "certificate_hash": "a2f33abf588208661bc2c1a8b529477b45e03d62"
+          }
+        },
+        {
+          "client_id": "787425357847-eeajkr99alvh7eq2nmnioqprbkgqtcah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nguyenphandu.online.callthatcolorasname",
+            "certificate_hash": "8927a607a236a51608bd880f1c4610ddfe7b20f6"
+          }
+        },
+        {
+          "client_id": "787425357847-roaqrg2ehi1jnm8ej73or1li8a331r9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nguyenphandu.online.callthatcolorasname",
+            "certificate_hash": "cd352cd023caf369c383ba2ee5469657f82a3890"
+          }
+        },
+        {
+          "client_id": "787425357847-63ronlv3881akfkp4k6r8vm4d4alnl34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsIOZ9nZAuypco7ERdCVM74RMF_dK8Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787425357847-63ronlv3881akfkp4k6r8vm4d4alnl34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787425357847:android:1254a620eece9509a92c52",
+        "android_client_info": {
+          "package_name": "nguyenphandu.online.callthatcolorasname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787425357847-0d7dec972b91t8f7vvc0cms47g88ctf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nguyenphandu.online.callthatcolorasname",
+            "certificate_hash": "cd352cd023caf369c383ba2ee5469657f82a3890"
+          }
+        },
+        {
+          "client_id": "787425357847-63ronlv3881akfkp4k6r8vm4d4alnl34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsIOZ9nZAuypco7ERdCVM74RMF_dK8Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787425357847-63ronlv3881akfkp4k6r8vm4d4alnl34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
